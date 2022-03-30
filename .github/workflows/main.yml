@@ -32,7 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
 
       - name: Run Test
-        run: Multiple Design Patterns
+        run: Design-Patterns-Project
 
 
 
