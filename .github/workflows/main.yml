@@ -32,10 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
 
       - name: Run Test
-        run: cost
-      - name: Run Junit11
-        run: Junit11.test
-      - name: Run Junit22
-        run: Junit22.test
+        run: Multiple Design Patterns
+
 
 
