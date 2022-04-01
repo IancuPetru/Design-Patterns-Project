@@ -22,4 +22,4 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
     - name: Build with Ant
-      run: ant -noinput -buildfile src
+      run: ant -noinput -buildfile classpath
